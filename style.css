@@ -1,0 +1,262 @@
+body{
+    background-color: rgb(33,33,33);
+    border: 8px double antiquewhite;
+
+}
+
+#welcome{
+    color:rgb(245, 214, 173);
+    font-size: 35px;
+    text-align: center;
+    padding: 200px;
+    padding-bottom: 25px;
+}
+
+#drank{
+    color:rgb(245, 214, 173);
+    font-size: 35px;
+    text-align: center;
+    padding: 80px;
+    padding-bottom: 80px;
+}
+
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
+
+.pour-button{
+    background-color: antiquewhite;
+    color:rgb(33,33,33);
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
+    margin: 200px;
+    margin-top: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 8px double black;
+    border-radius: 40px;
+}
+
+.pour-button:hover{
+    background-color: antiquewhite;
+    color:rgb(33,33,33);
+    font-size: 35px;
+    text-align: center;
+    /* padding: 50px; */
+    margin: 200px;
+    margin-top: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 8px double antiquewhite;
+    border-radius: 40px;
+}
+
+.choice-button{
+    background-color: antiquewhite;
+    color:rgb(33,33,33);
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    border: 8px double black;
+    border-radius: 40px;
+}
+
+.choice-button:hover{
+    background-color: antiquewhite;
+    color:rgb(33,33,33);
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 8px double antiquewhite;
+    border-radius: 40px;
+}
+
+#dance-button{
+    background-color:orangered;
+    color:antiquewhite;
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    border: 8px double black;
+    border-radius: 40px;
+}
+
+#dance-button:hover{
+    background-color: orangered;
+    color:antiquewhite;
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 8px double orangered;
+    border-radius: 40px;
+}
+
+.drunk-button{
+    background-color: antiquewhite;
+    color:rgb(33,33,33);
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    border: 8px double black;
+    border-radius: 40px;
+}
+
+.drunk-button:hover{
+    background-color: antiquewhite;
+    color:rgb(33,33,33);
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 8px double antiquewhite;
+    border-radius: 40px;
+}
+
+.drink-button{
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+}
+
+.beer-mug1{
+    width: 300px;
+    height: 600px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#beer1{
+    width: 270px;
+    height: 550px;
+    background-color:gold;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.beer-mug2{
+    width: 300px;
+    height: 400px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 220px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#beer2{
+    width: 270px;
+    height: 350px;
+    background-color:gold;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.beer-mug3{
+    width: 300px;
+    height: 100px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 520px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#beer3{
+    width: 270px;
+    height: 50px;
+    background-color:gold;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.whiskey-glass1{
+    width: 400px;
+    height: 400px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#whiskey1{
+    width: 370px;
+    height: 350px;
+    background-color:rgb(240, 145, 36);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.whiskey-glass2{
+    width: 400px;
+    height: 250px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 170px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#whiskey2{
+    width: 370px;
+    height: 200px;
+    background-color:rgb(240, 145, 36);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.whiskey-glass3{
+    width: 400px;
+    height: 100px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 320px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#whiskey3{
+    width: 370px;
+    height: 50px;
+    background-color:rgb(240, 145, 36);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
